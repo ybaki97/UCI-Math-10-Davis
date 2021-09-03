@@ -1,5 +1,5 @@
 # UCI-Math-10-Davis
-Chris Davis's teaching materials for UC Irvine Math 10.  As of August 4, 2021, nothing is polished here, and it should probably just be ignored for now.
+Chris Davis's teaching materials for UC Irvine Math 10.  As of September 3, 2021, nothing is polished here, and it should probably just be ignored for now.
  
 Topics for Math 10, Fall 2021:
 * Basics of Python
