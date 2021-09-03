@@ -3,6 +3,7 @@ Chris Davis's teaching materials for UC Irvine Math 10.  As of August 4, 2021, n
  
 Topics for Math 10, Fall 2021:
 * Basics of Python
+* Data structures in Python
 * Tools for data manipulation, especially pandas and NumPy
 * Tools for machine learning, especially scikit-learn and Keras
 * Mathematical aspects of machine learning (loss functions, gradient descent)
